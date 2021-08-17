@@ -12,7 +12,7 @@ pandas=1.3.1
 ![image](https://user-images.githubusercontent.com/88464468/129811078-56ce1296-1b67-4d2a-aad8-6917959aedd9.png)
 Press q to exit the program execution
 
-Similary to detect the video in the face and record it , run
+To detect the face in the live video and record it ,run
 
 **python face_detection_video_haar.py**
 
