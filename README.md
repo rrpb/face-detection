@@ -15,3 +15,8 @@ Press q to exit the program execution
 Similary to detect the video in the face and record it , run
 
 **python face_detection_video_haar.py**
+
+## References
+- https://www.pyimagesearch.com/2021/04/05/opencv-face-detection-with-haar-cascades/
+- https://artelliq.com/blog/how-to-build-a-webcam-face-detector-using-opencv-python/
+- https://www.geeksforgeeks.org/saving-a-video-using-opencv/
